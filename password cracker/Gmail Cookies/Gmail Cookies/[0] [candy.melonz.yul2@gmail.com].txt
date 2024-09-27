@@ -1,0 +1,40 @@
+.google.com	TRUE	/ads	TRUE	1733011200	AID	AJHaeXIixNStXutBjIo9uLFbBX_EFCT7JOIektaf8_dsRx6iJLwJpIfHBw
+accounts.google.com	FALSE	/	TRUE	1733011200	SMSV	ADHTe-DIzTkRIFg37cnGrCQ18hieqKjqglBYhDMZcwgjA3MdgtWHyLKd_KWZy6DEDV0usRGtBOB6ePutNitRt2GeqPORrSbW3USSVp8Wc95WHGiY3b9KN5FAyJPkgBISA6TPFFiYX0nZuMINOQHdJjhsAWGN7rp8kg
+accounts.google.com	FALSE	/	TRUE	1733011200	LSOLH	|_SVI_EOzFj97Gg4YDGBAiP01BRURIZl9xbXE4SDdQalE5YnRJa3ZRbEpMODFUSFlkekRGNmtTbWlsODRrVi1LeTdSUUdSRm16T2Q1bjNMdw_|_SVI_EIe4487Fg4YDGBAiP01BRURIZl9xNkhEOC01UFh6eFZLSkY0ejhzWWFPallmWHd1ZHhYR2ZnSmpUU040R3lRZGJGQ1RkcW1NTFdlTQ_:|28589351|28589346:b736
+www.google.com	FALSE	/	TRUE	1733011200	receive-cookie-deprecation	1
+drive.fife.usercontent.google.com	FALSE	/	TRUE	1733011200	OSID	g.a000kghEEn2mA19SoNJgqzZiFE2A6NqtCRd_G4daNX9IbJE-HJLHdzBzO2ekDTiZOLiGQM8w_AACgYKAUQSARESFQHGX2MiSoiTha31cS5tX52N0buhrhoVAUF8yKpUONwbWxVVY5IqeCN3aHuC0076
+drive.fife.usercontent.google.com	FALSE	/	TRUE	1733011200	__Secure-OSID	g.a000kghEEn2mA19SoNJgqzZiFE2A6NqtCRd_G4daNX9IbJE-HJLHJ9Cr9eck3lT-WlulM4xNFQACgYKAdASARESFQHGX2Min0AhPFL3ta4Gy75tOddicBoVAUF8yKrrHOBCoOyu0d43VCd_bFcG0076
+.fonts.google.com	TRUE	/	FALSE	1733011200	_ga	GA1.1.1783164315.1720454178
+.fonts.google.com	TRUE	/	FALSE	1733011200	_ga_XPW1QSKFW4	GS1.1.1720454178.1.1.1720454679.0.0.0
+.support.google.com	TRUE	/	FALSE	1733011200	_ga_H30R9PNQFN	GS1.1.1720969618.2.1.1720969679.0.0.0
+.one.google.com	TRUE	/	FALSE	1733011200	_ga_28ERXSXE4R	GS1.1.1720968965.1.1.1720970641.0.0.0
+ogs.google.com	FALSE	/	TRUE	1733011200	OTZ	7686090_28_28__28_
+mail.google.com	FALSE	/	TRUE	1733011200	__Host-GMAIL_SCH_GML	1
+mail.google.com	FALSE	/	TRUE	1733011200	__Host-GMAIL_SCH_GMN	1
+mail.google.com	FALSE	/	TRUE	1733011200	__Host-GMAIL_SCH_GMS	1
+.google.com	TRUE	/	TRUE	1733011200	AEC	AVYB7cpJvFR4qVQRxuJKKsWQ8ciuL3g20-JdsPbjs3fqYoPsE9smYaj3Btk
+.google.com	TRUE	/verify	TRUE	1733011200	SNID	AEc5nKW-Iqv5dbtU4hlDIWL_0wp8A2aW7ADbCiM4orejEu9pMzU36_PPdW-B9RPnUWFnihqsj8zDZLyCIQZwXAiQKDaX03irWTA
+.business.google.com	TRUE	/	FALSE	1733011200	_ga_VM5ES1YN10	GS1.1.1725477023.1.0.1725477119.0.0.0
+.business.google.com	TRUE	/	FALSE	1733011200	_gcl_au	1.1.1785895514.1725477023
+.google.com	TRUE	/	TRUE	1733011200	__Secure-1PSIDTS	sidts-CjEBUFGoh0naSZex6UvK-TBj0SMJmdK3yNTPohQFgr-NDFa0MYmuNSDgPtJJCW5GAbNYEAA
+.google.com	TRUE	/	TRUE	1733011200	__Secure-3PSIDTS	sidts-CjEBUFGoh0naSZex6UvK-TBj0SMJmdK3yNTPohQFgr-NDFa0MYmuNSDgPtJJCW5GAbNYEAA
+accounts.google.com	FALSE	/	TRUE	1733011200	ACCOUNT_CHOOSER	AFx_qI4SXE-FAZlHbQrJN80K0lhZFOwUXEZnBobS8GrwzW27Fg7uiOhclcYP4ybQCaPdRh9JZZfMT9zcLvziKNM_16pE-MPUHk-YbOmgoq-M_3CcRAW3PWAvLw4auIWAXVvp7ZmS6ork_xvN6QBpEQEgjilwOCdhqiLWxXmAXLA0s7BzEq2xqbSkQK29FwO8ZrqwTjtF9HEswt9woZ6lT1VkmxLf1WouX35do9NLQgk6CB8wq61PKy5O6MDfU4DLK96qNloK_mMfNcG2rC_se-TkLdgl0mRFUW16Z7PFWf45UeYACPwycrJG7GF1C-mi23qLDv96XaUh4FGqis7_xF7UPo7L8-K6mOHJb4hWp9ameYpEPOqrbdLWFKFNGy7MhVzWxoAem1Y5eTwnVOgPC0AHQDLJ6N_BGBLC5XBtLTqMrzX0anIm15sl9Ie_GmKbyP8cZFK0_ciy3MSiTpl25DXt3C8p-YbfslLApKQJhQt7i4S_q94DVF_uGb3xVzSoylpH0Fi9YNB2TKC63sg79trmZVZ9uTn8mL4eEusLTwp8JzFmXMNX88D9dzFeZVkob7jH3zWBr2WG3DCBgkb7PBdaj1xqe8Uc8QXzyE5iKAC7rcHFHIpG47OCEMn87uz7ASt8VTw1k-5FrnvWiIdykRewktHFJQugDoengHlbWZUnOPcf5Am-GtzaeqwSXfbm7nPI2_F3U7Z5MwA4_D1JbnAAy9yovVPCKnvc5WKLUXmNPkipLjGR3uZeElyo9-qD9K3Rmn1lvxuYM60vFX_DY1CZel6vzg4KtvvrwRedSquphdZGftXW1ALCLFr6x2iLG1SV5xKupUFUmvDkdeIRWITSQ_H4nMb8iePJKzRK3NlosuFh0787S45DYZL0cmjRcHbU3_I-4uFo9Oeetr44DxW0teDb_rD5AparyJ7Wk1hqgfDwAOi4dZI
+accounts.google.com	FALSE	/	TRUE	1733011200	LSID	o.drive.fife.usercontent.google.com|o.drive.google.com|o.gds.google.com|o.groups.google.com|o.lens.google.com|o.mail.google.com|o.myaccount.google.com|o.photos.fife.usercontent.google.com|o.photos.google.com|s.TH|s.blogger|s.youtube:g.a000nghEEjNjCIQcJ1AmeU3nL9ufKfaAfCijBK9u4xB2DgeDAwVgmLEaugpcieLQeYlDP3UaOQACgYKAfQSARESFQHGX2MiocB3IyR8Z0jRVDZ6QaKKmxoVAUF8yKo0zjJxGYlbgPpN4VxmcVrn0076
+accounts.google.com	FALSE	/	TRUE	1733011200	__Host-1PLSID	o.drive.fife.usercontent.google.com|o.drive.google.com|o.gds.google.com|o.groups.google.com|o.lens.google.com|o.mail.google.com|o.myaccount.google.com|o.photos.fife.usercontent.google.com|o.photos.google.com|s.TH|s.blogger|s.youtube:g.a000nghEEjNjCIQcJ1AmeU3nL9ufKfaAfCijBK9u4xB2DgeDAwVgO2llSxvhRtMuHL6-pBwNZQACgYKASESARESFQHGX2MiK_6vfZS81d6KIBMvxsF1WhoVAUF8yKoPTyewLledJJi0goJqWyXl0076
+accounts.google.com	FALSE	/	TRUE	1733011200	__Host-3PLSID	o.drive.fife.usercontent.google.com|o.drive.google.com|o.gds.google.com|o.groups.google.com|o.lens.google.com|o.mail.google.com|o.myaccount.google.com|o.photos.fife.usercontent.google.com|o.photos.google.com|s.TH|s.blogger|s.youtube:g.a000nghEEjNjCIQcJ1AmeU3nL9ufKfaAfCijBK9u4xB2DgeDAwVgV1SGfK2NkvE2CgFxBGfWVAACgYKASESARESFQHGX2MiNMqOKzfVrip2CG8-6qsa6RoVAUF8yKqoj8VoDYuV440991mXRG3M0076
+.google.com	TRUE	/	FALSE	1733011200	APISID	cPuppaLtWRVXZC1X/AnLqP98UNSdHtw82a
+mail.google.com	FALSE	/	TRUE	1733011200	COMPASS	appsfrontendserver=CgAQ7oPjtgYaeAAJa4lX7gzmAnaMnSISYq-QEuWs9a3HmUADt7WxAu53ezdpTHq1yOrTfgKLn-JhBjNhXF4eFq5QGGc7xzTSYcY9Gvvmh0hvuMm8HNjGWqjaVk1dWCcWPX0VlzAI8R_HIMggyosWuHVAVhlPvsGAzHghzbkB_0SeiiABMAE:gmail-blobstore=CgAQnN3StgYaegAJa4lX52xPtKSIh76Crf5Az-Qg9RXcX1sx47UgBQnMmV_eGZw2VOtKfCnh_og2UUNzVhTkyHQJ2HpYvTzQIz4QmSc2vN-DIc0neGwf8VLig6too9epPwYIbaDwfxnVv7A6ICQuxNgIBTL4Dj4SgB9kO4tsilUB7GfWMAE
+.google.com	TRUE	/	FALSE	1733011200	HSID	AERpr7DyvgB-mo_vO
+.google.com	TRUE	/	TRUE	1733011200	SAPISID	-uT6qxF0GL3uwE6q/AMRifyr6zFVYhhq5H
+.google.com	TRUE	/	FALSE	1733011200	SID	g.a000nghEEspuRyfxvlYv8HjpLSbLCtg5epsjltIrqjHwVBrp6hm55U3-ZmykV7XgAm3Fw_BVoQACgYKAd0SARESFQHGX2MiGR50SrPuSrF-K1JeOeWadhoVAUF8yKr5bME1oHJd8EBYTBQwHQXQ0076
+.google.com	TRUE	/	TRUE	1733011200	SSID	AyNQWte3j2HwW8kGU
+accounts.google.com	FALSE	/	TRUE	1733011200	__Host-GAPS	1:nIsNh2r9jH28HsYik9t3pJwZRst7y5vka0zvNF-iiyINpKhWVK1vodbzOGl1kif_EY7qkYxLQIO_Sz68lHium7GJA6GWc8_k5siq10AHHduJzP5LbMHSSXQh11d4jv9yMDBV4D7zZ76pKA:kumdANTqVX310GRS
+.google.com	TRUE	/	TRUE	1733011200	__Secure-1PAPISID	-uT6qxF0GL3uwE6q/AMRifyr6zFVYhhq5H
+.google.com	TRUE	/	TRUE	1733011200	__Secure-1PSID	g.a000nghEEspuRyfxvlYv8HjpLSbLCtg5epsjltIrqjHwVBrp6hm527uRfW7aQ1KdRQF9vHis6wACgYKAfwSARESFQHGX2Miqzzf4A2xn46WDDuRDXsOXBoVAUF8yKoA_Yo6ZISHs6sLYTFmUPxQ0076
+.google.com	TRUE	/	TRUE	1733011200	__Secure-3PAPISID	-uT6qxF0GL3uwE6q/AMRifyr6zFVYhhq5H
+.google.com	TRUE	/	TRUE	1733011200	__Secure-3PSID	g.a000nghEEspuRyfxvlYv8HjpLSbLCtg5epsjltIrqjHwVBrp6hm5t8nMOxjplwsKjXUeJYPP7AACgYKAeISARESFQHGX2MipFdeGd4KZQXkULqHegUBixoVAUF8yKrVoJ4-T30PM5LAAoK8nJ_r0076
+.google.com	TRUE	/	TRUE	1733011200	NID	
+.google.com	TRUE	/	FALSE	1733011200	SEARCH_SAMESITE	
+.google.com	TRUE	/	FALSE	1733011200	SIDCC	
+.google.com	TRUE	/	TRUE	1733011200	__Secure-1PSIDCC	
+.google.com	TRUE	/	TRUE	1733011200	__Secure-3PSIDCC	

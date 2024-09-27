@@ -1,0 +1,10 @@
+fernandolopezcruz2019@gmail.com:ferlocru2019
+----------------------------------
+Used Quota : 0/20 GB
+----------------------------------
+
+|- [Directory] MEGAsync Imports - 0 bytes - 11/2/2019 1:25:42 AM
+|- [Directory] MEGAsync Uploads - 0 bytes - 11/11/2019 12:13:47 PM
+|- [Directory] CAD - 0 bytes - 2/21/2020 8:30:03 AM
+	|- [Directory] BLOQUES - 0 bytes - 2/21/2020 8:30:03 AM
+	|- [Directory] TEXTURAS - 0 bytes - 2/21/2020 8:30:03 AM

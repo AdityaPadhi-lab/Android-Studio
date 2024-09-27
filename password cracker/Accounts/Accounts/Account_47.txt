@@ -1,0 +1,23 @@
+alkassmiaiman99@gmail.com:aiman2016af
+----------------------------------
+Used Quota : 12/50 GB
+----------------------------------
+
+|- [Directory] Camera Uploads - 0 bytes - 6/24/2022 7:05:17 PM
+|- [File] Haafedk Mtk محمد سوفت.rar - 226458476 bytes - 7/20/2023 9:24:27 PM
+|- [File] HalabTech_Tool_install_V1.1.6-Haafedk.exe - 287417875 bytes - 7/20/2023 9:25:34 PM
+|- [Directory] Kaspersky - 0 bytes - 8/7/2023 1:37:59 PM
+	|- [File] Kaspersky 21.8.5.452 Basic Standard Plus Premium RePack by LcHNextGen (rv1988) (EN).rar - 380585828 bytes - 8/7/2023 1:38:01 PM
+|- [File] setup pro touch recovery.7z - 385657957 bytes - 8/10/2023 9:56:41 PM
+|- [File] ANDROID_TOTAL_ROOT_V1.rar - 133918955 bytes - 8/10/2023 9:59:02 PM
+|- [Directory] Hack - 0 bytes - 1/21/2024 4:10:16 PM
+	|- [Directory] CompTIA_PenTest+_V7x_Academy_2024 - 0 bytes - 1/21/2024 4:10:19 PM
+		|- [File] 1_CompTIA_PenTest+_V7x_Academy_2024.rar - 1502404158 bytes - 1/21/2024 4:10:19 PM
+		|- [File] 2_CompTIA_PenTest+_V7x_Academy_2024.rar - 1727668974 bytes - 1/21/2024 4:10:19 PM
+		|- [File] Info.txt - 558 bytes - 1/21/2024 4:10:19 PM
+	|- [Directory] Build_Remote_Access_Tool_(RAT)_V7x_Academy_2024 - 0 bytes - 3/9/2024 9:16:59 PM
+		|- [File] 2_Build_Remote_Access_Tool_(RAT)_in_C#_V7x_Academy_2024.rar - 2990967598 bytes - 3/9/2024 9:16:59 PM
+		|- [File] 1_Build_Remote_Access_Tool_(RAT)_in_C#_V7x_Academy_2024.rar - 1877035918 bytes - 3/9/2024 9:16:59 PM
+		|- [File] info.txt - 538 bytes - 3/9/2024 9:16:59 PM
+		|- [File] 3_Build_Remote_Access_Tool_(RAT)_in_C#_V7x_Academy_2024.rar - 2282008318 bytes - 3/9/2024 9:16:59 PM
+	|- [File] Assembly_Programming_for_Reverse _Engineering_V7x_Academy_2023.rar - 1770236302 bytes - 3/18/2024 2:41:19 PM

@@ -1,0 +1,54 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {   
+    height: 80%;
+    aspect-ratio: 3/4;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card::before, .card::after {
+    content: "";
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+    /* border-radius: 1.5rem; */
+    border: 7px solid #ac959500;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    transform-origin: bottom;
+    transform: perspective(700px)
+        rotateX(var(--angle,0deg))
+        scale(var(--scale, 1));
+    transition: 0.5s all ease;
+}
+
+.card::before {
+    border-color: #fff;
+    background-image: url(assets/image.jpg);
+}
+
+.card::after {
+    border-color: #fff;
+    background-image: url(assets/image2.png);
+}
+
+.card:hover::before {
+    --angle: 60deg;
+    --scale: 1.2;
+    filter: blur(3px);
+}
+ 
+.card:hover::after {
+    --scale: 1.1;
+} 
